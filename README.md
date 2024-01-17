@@ -2,7 +2,8 @@
 DB design for Zden guvi class has been designed in below sheet for refernce https://docs.google.com/spreadsheets/d/1YcuvEMSHERcPNr2vwtu-33fxdgT31Phc2bxWfdWL9LA/edit#gid=0
 
 SCREENSHOT:
-https://user-images.githubusercontent.com/26063120/163723022-3c6c6cba-807e-4d26-9791-8b2b8d37b2f6.png
+![image](https://github.com/NamagiriLakshmiMVL/SQL_2/assets/144921147/0da211d7-8548-490e-a695-d609989e57d3)
+
 
 
 
